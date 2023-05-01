@@ -1,0 +1,16 @@
+img{
+    float: left;
+    margin: 20px;
+}
+
+strong{
+    text-decoration: underline;
+}
+
+p{
+    text-align:justify;
+}
+
+/* h5{
+    text-decoration: underline;
+} */

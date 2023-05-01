@@ -1,0 +1,14 @@
+body {
+    
+    background-image: url(../src/assets/pictures/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg);
+    
+}
+
+.bottom{
+  position: fixed;
+  bottom: 0px;
+
+  
+  left: 0;
+  right: 0;
+}
